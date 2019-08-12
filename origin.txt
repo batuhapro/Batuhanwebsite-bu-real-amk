@@ -1,0 +1,120 @@
+Uri: https://www.musembed.tk/
+File Name: C:\Users\Administrator\Desktop\www.musembed.tk\index.htm
+Content Type: text/html
+
+Uri: https://www.musembed.tk/assets/images/embed-and-music-bot-logo-122x122.png
+File Name: C:\Users\Administrator\Desktop\www.musembed.tk\assets\images\embed-and-music-bot-logo-122x122.png
+Content Type: image/png
+
+Uri: https://www.musembed.tk/assets/web/assets/mobirise-icons/mobirise-icons.css
+File Name: C:\Users\Administrator\Desktop\www.musembed.tk\assets\web\assets\mobirise-icons\mobirise-icons.css
+Content Type: text/css
+
+Uri: https://www.musembed.tk/assets/tether/tether.min.css
+File Name: C:\Users\Administrator\Desktop\www.musembed.tk\assets\tether\tether.min.css
+Content Type: text/css
+
+Uri: https://www.musembed.tk/assets/bootstrap/css/bootstrap.min.css
+File Name: C:\Users\Administrator\Desktop\www.musembed.tk\assets\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.musembed.tk/assets/bootstrap/css/bootstrap-grid.min.css
+File Name: C:\Users\Administrator\Desktop\www.musembed.tk\assets\bootstrap\css\bootstrap-grid.min.css
+Content Type: text/css
+
+Uri: https://www.musembed.tk/assets/bootstrap/css/bootstrap-reboot.min.css
+File Name: C:\Users\Administrator\Desktop\www.musembed.tk\assets\bootstrap\css\bootstrap-reboot.min.css
+Content Type: text/css
+
+Uri: https://www.musembed.tk/assets/dropdown/css/style.css
+File Name: C:\Users\Administrator\Desktop\www.musembed.tk\assets\dropdown\css\style.css
+Content Type: text/css
+
+Uri: https://www.musembed.tk/assets/theme/css/style.css
+File Name: C:\Users\Administrator\Desktop\www.musembed.tk\assets\theme\css\style.css
+Content Type: text/css
+
+Uri: https://www.musembed.tk/assets/mobirise/css/mbr-additional.css
+File Name: C:\Users\Administrator\Desktop\www.musembed.tk\assets\mobirise\css\mbr-additional.css
+Content Type: text/css
+
+Uri: https://www.musembed.tk/index.html
+File Name: C:\Users\Administrator\Desktop\www.musembed.tk\index.html
+Content Type: text/html
+
+Uri: https://www.musembed.tk/commands.html
+File Name: C:\Users\Administrator\Desktop\www.musembed.tk\commands.html
+Content Type: text/html
+
+Uri: https://www.musembed.tk/commands
+File Name: C:\Users\Administrator\Desktop\www.musembed.tk\commands-1.html
+Content Type: text/html
+
+Uri: https://www.musembed.tk/assets/web/assets/jquery/jquery.min.js
+File Name: C:\Users\Administrator\Desktop\www.musembed.tk\assets\web\assets\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://www.musembed.tk/assets/popper/popper.min.js
+File Name: C:\Users\Administrator\Desktop\www.musembed.tk\assets\popper\popper.min.js
+Content Type: application/javascript
+
+Uri: https://www.musembed.tk/assets/tether/tether.min.js
+File Name: C:\Users\Administrator\Desktop\www.musembed.tk\assets\tether\tether.min.js
+Content Type: application/javascript
+
+Uri: https://www.musembed.tk/assets/bootstrap/js/bootstrap.min.js
+File Name: C:\Users\Administrator\Desktop\www.musembed.tk\assets\bootstrap\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://www.musembed.tk/assets/smoothscroll/smooth-scroll.js
+File Name: C:\Users\Administrator\Desktop\www.musembed.tk\assets\smoothscroll\smooth-scroll.js
+Content Type: application/javascript
+
+Uri: https://www.musembed.tk/assets/dropdown/js/script.min.js
+File Name: C:\Users\Administrator\Desktop\www.musembed.tk\assets\dropdown\js\script.min.js
+Content Type: application/javascript
+
+Uri: https://www.musembed.tk/assets/touchswipe/jquery.touch-swipe.min.js
+File Name: C:\Users\Administrator\Desktop\www.musembed.tk\assets\touchswipe\jquery.touch-swipe.min.js
+Content Type: application/javascript
+
+Uri: https://www.musembed.tk/assets/parallax/jarallax.min.js
+File Name: C:\Users\Administrator\Desktop\www.musembed.tk\assets\parallax\jarallax.min.js
+Content Type: application/javascript
+
+Uri: https://www.musembed.tk/assets/theme/js/script.js
+File Name: C:\Users\Administrator\Desktop\www.musembed.tk\assets\theme\js\script.js
+Content Type: application/javascript
+
+Uri: https://www.musembed.tk/assets/web/assets/mobirise-icons/mobirise-icons.eot?spat4u
+File Name: C:\Users\Administrator\Desktop\www.musembed.tk\assets\web\assets\mobirise-icons\mobirise-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.musembed.tk/assets/web/assets/mobirise-icons/mobirise-icons.ttf?spat4u
+File Name: C:\Users\Administrator\Desktop\www.musembed.tk\assets\web\assets\mobirise-icons\mobirise-icons.ttf
+Content Type: font/ttf
+
+Uri: https://www.musembed.tk/assets/web/assets/mobirise-icons/mobirise-icons.woff?spat4u
+File Name: C:\Users\Administrator\Desktop\www.musembed.tk\assets\web\assets\mobirise-icons\mobirise-icons.woff
+Content Type: font/woff
+
+Uri: https://www.musembed.tk/assets/web/assets/mobirise-icons/mobirise-icons.svg?spat4u
+File Name: C:\Users\Administrator\Desktop\www.musembed.tk\assets\web\assets\mobirise-icons\mobirise-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://www.musembed.tk/assets/images/musembed-poster-1920x1200.png
+File Name: C:\Users\Administrator\Desktop\www.musembed.tk\assets\images\musembed-poster-1920x1200.png
+Content Type: image/png
+
+Uri: https://www.musembed.tk/assets/datatables/data-tables.bootstrap4.min.css
+File Name: C:\Users\Administrator\Desktop\www.musembed.tk\assets\datatables\data-tables.bootstrap4.min.css
+Content Type: text/css
+
+Uri: https://www.musembed.tk/assets/datatables/jquery.data-tables.min.js
+File Name: C:\Users\Administrator\Desktop\www.musembed.tk\assets\datatables\jquery.data-tables.min.js
+Content Type: application/javascript
+
+Uri: https://www.musembed.tk/assets/datatables/data-tables.bootstrap4.min.js
+File Name: C:\Users\Administrator\Desktop\www.musembed.tk\assets\datatables\data-tables.bootstrap4.min.js
+Content Type: application/javascript
+
